@@ -1,4 +1,4 @@
-# section_2 project
+# section2 project
 
 * 프로젝트 주제
   - 항공사 이용 고객 만족도 분류 예측 머신러닝 모델 개발
