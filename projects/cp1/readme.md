@@ -10,7 +10,7 @@
 
 방준원 : https://github.com/Bang-JW
 
-이예지 : https://github.com/Leeyeji13
+이예지 : https://github.com/99yeji13
 
 서예슬 : https://github.com/yyeseull
 
