@@ -6,11 +6,11 @@
 
 ### 팀별 깃허브 주소
 
-김태현 : https://github.com/tastebread/
+김태현 : https://github.com/tastebread
 
 방준원 : https://github.com/Bang-JW
 
-이예지 : https://github.com/Leeyeji13
+이예지 : https://github.com/99yeji13
 
 서예슬 : https://github.com/yyeseull
 
